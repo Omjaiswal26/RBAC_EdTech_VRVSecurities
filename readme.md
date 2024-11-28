@@ -7,7 +7,7 @@ Django REST Framework based Backend for EdTech platform demonstrating RBAC with 
 - Admin
 
 Swagger URL: 127.0.0.1:8000\swagger\
-Postman Collection: 
+Postman Collection: https://www.postman.com/clinibooth/workspace/omjaiswal-vrv
 
 
 # Run Locally
